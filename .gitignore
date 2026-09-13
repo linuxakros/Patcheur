@@ -1,0 +1,26 @@
+# Build output
+build/
+_build/
+
+# MSVC / Visual Studio intermediate files
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.res
+
+# Executables
+*.exe
+*.dll
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+.DS_Store
